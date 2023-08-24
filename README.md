@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am JS developer with expertise in building web application using frameworks such Ember.js, React.js & Angular.js at for organizations past couple of years.
+I am JS developer with expertise in building web application using frameworks such Ember.js, React.js & Angular.js.
 
 <!--
 **kushdilip/kushdilip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
